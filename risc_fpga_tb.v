@@ -1,5 +1,5 @@
 
-`include "risc_fpga_.v"
+`include "risc_fpga_full_program.v"
 
 
 module risc_fpga_tb;
